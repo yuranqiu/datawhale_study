@@ -136,10 +136,10 @@ import re
 
 # --- 1. 配置LLM客户端 ---
 # 请根据您使用的服务，将这里替换成对应的凭证和地址
-API_KEY = "YOUR_API_KEY"
-BASE_URL = "YOUR_BASE_URL"
-MODEL_ID = "YOUR_MODEL_ID"
-os.environ['TAVILY_API_KEY'] = "YOUR_TAVILY_API_KEY"
+API_KEY = "34be6855597f4af4b1eec46d5ddaeef0.crkumsPHcXWkXDcL"
+BASE_URL = "https://open.bigmodel.cn/api/paas/v4"
+MODEL_ID = "glm-4.6"
+os.environ['TAVILY_API_KEY'] = "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"
 
 llm = OpenAICompatibleClient(
     model=MODEL_ID,
