@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelloAgent/Task 02.md",
+                "file": "HelloAgent/Task 03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 02"
+              "title": "Task 03"
             }
           }
         ]
@@ -182,9 +182,12 @@
   },
   "active": "f26cdc2a546acb32",
   "lastOpenFiles": [
-    "HelloAgent/Task 01.md",
     "HelloAgent/Task 02.md",
     "HelloAgent/Task 03.md",
+    "HelloAgent/Task 01.md",
+    "HelloAgent/chapter3/N-gram.py",
+    "HelloAgent/chapter3/n-gram.py",
+    "HelloAgent/chapter3",
     "README.md",
     "Agentic AI/Task 01.md",
     "HelloAgent/chapter2/ELIZA.py",
