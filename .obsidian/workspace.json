@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agentic AI/Task 01.md",
+                "file": "HelloAgent/Task 01.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +182,15 @@
   },
   "active": "f26cdc2a546acb32",
   "lastOpenFiles": [
-    "HelloAgent/Task 01.md",
+    "README.md",
     "Agentic AI/Task 01.md",
+    "HelloAgent/chapter2/ELIZA.py",
+    "HelloAgent/chapter2",
+    "HelloAgent/Task 01.md",
     "HelloAgent/chapter1/FirstAgentTest.py",
     "HelloAgent/chapter1/code1p3.py",
     "HelloAgent/chapter1/新建文件夹",
     "HelloAgent/chapter1",
-    "HelloAgent/新建文件夹",
-    "README.md"
+    "HelloAgent/新建文件夹"
   ]
 }
