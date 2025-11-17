@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agentic AI/Task 04.md",
+                "file": "HelloAgent/Task 06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 04"
+              "title": "Task 06"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,30 +183,31 @@
   },
   "active": "c54799b4b47248df",
   "lastOpenFiles": [
-    "Agentic AI/Task 05.md",
-    "Agentic AI/Task 10.md",
-    "HelloAgent/Task 10.md",
-    "Agentic AI/Task 04.md",
-    "HelloAgent/Task 16.md",
-    "HelloAgent/Task 10 - 副本.md",
-    "HelloAgent/Task 15.md",
-    "HelloAgent/Task 14.md",
-    "HelloAgent/Task 13.md",
-    "HelloAgent/Task 12.md",
-    "HelloAgent/Task 11.md",
-    "HelloAgent/Task 09.md",
-    "HelloAgent/Task 08.md",
+    "HelloAgent/chapter3/BPE.py",
     "HelloAgent/Task 07.md",
+    "HelloAgent/Task 16.md",
+    "HelloAgent/Task 15.md",
+    "HelloAgent/Task 12.md",
+    "HelloAgent/Task 10.md",
+    "HelloAgent/Task 08.md",
     "HelloAgent/Task 06.md",
     "HelloAgent/Task 05.md",
-    "HelloAgent/Task 03.md",
     "HelloAgent/Task 04.md",
+    "HelloAgent/Task 02.md",
+    "HelloAgent/Task 03.md",
+    "HelloAgent/Task 01.md",
+    "Agentic AI/Task 04.md",
+    "Agentic AI/Task 05.md",
+    "Agentic AI/Task 10.md",
+    "HelloAgent/Task 10 - 副本.md",
+    "HelloAgent/Task 14.md",
+    "HelloAgent/Task 13.md",
+    "HelloAgent/Task 11.md",
+    "HelloAgent/Task 09.md",
     "Agentic AI/Task 03.md",
     "Agentic AI/Task 01.md",
     "README.md",
-    "HelloAgent/Task 02.md",
     "Agentic AI/Task 02.md",
-    "HelloAgent/Task 01.md",
     "HelloAgent/chapter3/N-gram.py",
     "HelloAgent/chapter3/n-gram.py",
     "HelloAgent/chapter3",
