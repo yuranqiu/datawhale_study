@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 1317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f26cdc2a546acb32",
+  "active": "30e7df5eec186c66",
   "lastOpenFiles": [
     "Agentic AI/Task 02.md",
     "Agentic AI/Module 05.md",
